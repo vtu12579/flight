@@ -1,0 +1,45 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #dee06f;
+  }
+  
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #ec7cb2;
+    border: 1px solid hsl(0, 3%, 7%);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  form input[type="text"],
+  form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #614caf;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
